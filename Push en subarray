@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+
+<script>
+
+
+// Variables
+let llistaNumerada = [1, 2, 3, [100, 200]];
+console.log(llistaNumerada);
+// Afegim el número "300" dins la subllista
+llistaNumerada[3].push(300);
+console.log(llistaNumerada);
+
+
+
+</script>
