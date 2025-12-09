@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+
+<script>
+
+
+
+
+
+let a = [1, 2];
+let b = [3, 4];
+let d = [5, 6]
+let e = [7, 8]
+let c = a.concat(b);
+console.log(c);
+c = c.concat(d)
+console.log(c);
+c = c.concat(e)
+console.log(c)
+
+</script>
