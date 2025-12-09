@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+
+<script>
+
+
+
+
+
+let nombres = [10, 20, 30, 40, 50, 60, 70];
+console.log(nombres.slice(3, 4));
+
+
+</script>
